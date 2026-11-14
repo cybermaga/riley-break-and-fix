@@ -10,6 +10,14 @@
 - ▶ PowerPoint: [`presentation/Riley-Break-and-Fix-5slides.pptx`](presentation/Riley-Break-and-Fix-5slides.pptx)
 - 📄 PDF: [`presentation/Riley-Break-and-Fix-5slides.pdf`](presentation/Riley-Break-and-Fix-5slides.pdf)
 
+
+### ⬇ Прямое скачивание / Direct download
+
+| Файл | Скачать (PowerPoint) | Скачать (PDF) | Открыть |
+|---|---|---|---|
+| **Полная — 12 слайдов** | [⬇ .pptx](https://github.com/cybermaga/riley-break-and-fix/raw/margaret-presentation/presentation/Riley-Break-and-Fix.pptx) | [⬇ .pdf](https://github.com/cybermaga/riley-break-and-fix/raw/margaret-presentation/presentation/Riley-Break-and-Fix.pdf) | [open](https://github.com/cybermaga/riley-break-and-fix/blob/margaret-presentation/presentation/Riley-Break-and-Fix.pdf) |
+| **Короткая — титул + 5** | [⬇ .pptx](https://github.com/cybermaga/riley-break-and-fix/raw/margaret-presentation/presentation/Riley-Break-and-Fix-5slides.pptx) | [⬇ .pdf](https://github.com/cybermaga/riley-break-and-fix/raw/margaret-presentation/presentation/Riley-Break-and-Fix-5slides.pdf) | [open](https://github.com/cybermaga/riley-break-and-fix/blob/margaret-presentation/presentation/Riley-Break-and-Fix-5slides.pdf) |
+
 **Speaker material:**
 - 🎤 Speaker notes: [`presentation/SPEAKER-NOTES.md`](presentation/SPEAKER-NOTES.md)
 - 🇷🇺 Personal guide (RU + EN phrases): [`presentation/MARGARET-PERSONAL-GUIDE-RU.md`](presentation/MARGARET-PERSONAL-GUIDE-RU.md)

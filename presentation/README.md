@@ -7,4 +7,6 @@
 
 Speaker: [SPEAKER-NOTES.md](SPEAKER-NOTES.md) · [MARGARET-PERSONAL-GUIDE-RU.md](MARGARET-PERSONAL-GUIDE-RU.md) · [MARGARET-VISUAL-GUIDE.pdf](MARGARET-VISUAL-GUIDE.pdf)
 
+**Direct download:** [full .pptx](https://github.com/cybermaga/riley-break-and-fix/raw/margaret-presentation/presentation/Riley-Break-and-Fix.pptx) · [full .pdf](https://github.com/cybermaga/riley-break-and-fix/raw/margaret-presentation/presentation/Riley-Break-and-Fix.pdf) · [5-slide .pptx](https://github.com/cybermaga/riley-break-and-fix/raw/margaret-presentation/presentation/Riley-Break-and-Fix-5slides.pptx) · [5-slide .pdf](https://github.com/cybermaga/riley-break-and-fix/raw/margaret-presentation/presentation/Riley-Break-and-Fix-5slides.pdf)
+
 All data synthetic (fictional “Scioto Ridge”). 7 models · 65/169 traces · 179 payloads → 0 leaked.
