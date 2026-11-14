@@ -1,2 +1,5 @@
+*.jsonl
 .env
 __pycache__/
+defense/_genetic_evo.jsonl
+logs/
