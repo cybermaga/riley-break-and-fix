@@ -98,8 +98,8 @@
 > **EN:** "This is a drop-in least-privilege wrapper for any LLM that touches a database — no retraining."
 > *RU: «Это drop-in обёртка с минимумом прав для любого ИИ, который ходит в базу — без переобучения».*
 
-> **EN:** "Credit: Leonid built the attack agents, evolution and dashboard; Karlheinz documented the tool-call spoofing and the DeepSeek full break; I cracked Qwen3-235B, broke all three Claude models at Level 3, and built the five-layer gate; with Mengyuan and Bernhard on the team."
-> *RU: «Заслуги: Leonid — агенты атаки, эволюция и дашборд; Karlheinz — tool-call spoofing и полный пробой DeepSeek; я взломала Qwen3-235B, пробила все три модели Claude на Level 3 и построила пятислойный шлюз; плюс Mengyuan и Bernhard в команде».*
+> **EN:** "We built this together as a team — the attack engine, the open-model breaks, the Level-3 scope breaks on all three Claude models (restricted data, not patient PHI), and the five-layer gate. The team: Leonid, Karlheinz, Margaret, Mengyuan, Bernhard."
+> *RU: «Мы сделали это командой вместе — движок атаки, пробои открытых моделей, scope-пробои на всех трёх моделях Claude на Level 3 (непубличные данные, не данные пациентов) и пятислойный шлюз. Команда: Leonid, Karlheinz, Margaret, Mengyuan, Bernhard».*
 
 **Финальная фраза (выучи, смотри на судей):**
 > **"We didn't just break Riley — we built the lock that would have stopped us, and measured it."**

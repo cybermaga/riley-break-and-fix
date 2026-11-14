@@ -30,7 +30,7 @@ The three **Claude** models held the patient tables. But the server's AGENT SCOP
 "We replayed **179** recorded payloads — 153 logged SQL across seven models, 20 hand-crafted bypasses, 6 tool payloads. Of the 73 that could actually exfiltrate, **every one was blocked; zero reached data.** The shipped `demo.py` shows 2/2 legitimate queries still work, 7/7 representative attacks blocked, 67/67 replay, 0 leaked. And public look-ups still return their rows."
 
 ### Slide 5 · Adoption + team + close — 2:45–3:00
-"This is a drop-in least-privilege wrapper for any LLM touching a database — no retraining. Credit: Leonid built the attack agents, evolution and dashboard; Karlheinz documented the tool-call spoofing and the DeepSeek full break; I cracked Qwen3-235B, broke all three Claude models at Level 3, and built the five-layer gate and metrics; with Mengyuan and Bernhard on the team."
+"This is a drop-in least-privilege wrapper for any LLM touching a database — no retraining. We built this together as a team — the attack engine, the full breaks on the open models, the Level-3 scope breaks on all three Claude models, and the five-layer gate with its metrics. The team: Leonid, Karlheinz, Margaret, Mengyuan, Bernhard."
 
 ### Closing line — MEMORIZE (look up, not at the screen)
 > **"We didn't just break Riley — we built the lock that would have stopped us, and measured it."**
@@ -45,7 +45,7 @@ The three **Claude** models held the patient tables. But the server's AGENT SCOP
 | Mitigation 20% | Working, measured gate — 179-payload replay across 7 models, 0 reached data |
 | Technical execution 15% | Reproducible replay + full turn_ids (Appendix A/B); 65/169 traces (dashboard.html) |
 | Commercializability 10% | Drop-in `query_db` wrapper — a hypothesis |
-| Teamwork 10% | Attack (Leonid/Karlheinz) + defense/metrics/Claude extension (Margaret) |
+| Teamwork 10% | Built together by the whole team — attack engine and defense |
 | Presentation 5% | This 3-minute deck |
 
 ## Five likely judge questions (full answers on Appendix C)
